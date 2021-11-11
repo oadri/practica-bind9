@@ -12,3 +12,4 @@ $TTL	604800
 @	IN	NS	oadri.gal
 @	IN	A	10.0.0.254
 ns  IN  A   10.0.0.254
+    
