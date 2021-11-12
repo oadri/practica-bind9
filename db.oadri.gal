@@ -9,7 +9,9 @@ $TTL	604800
 			2419200		; Expire
 			 604800 )	; Negative Cache TTL
 ;
-@	IN	NS	oadri.gal
+@	IN	NS	ns.oadri.gal.
 @	IN	A	10.0.0.254
+@   IN  AAAA    ::1
 ns  IN  A   10.0.0.254
-    
+ola IN  CNAME   oadri.com
+ola IN  CNAME   oadri.es
