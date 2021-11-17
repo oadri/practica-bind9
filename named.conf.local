@@ -6,12 +6,7 @@
 // organization
 //include "/etc/bind/zones.rfc1918";
 
-zone "oadri.gal" {
+zone "oadri.gal." IN {
     type master;
-    file "/etc/bind/db.oadri.gal";
-};
-
-zone "0.0.10.in-addr.arpa" {
-    type master;
-    file "/etc/bind/db.10";
+    file "/etc/bind/db.oadri.gal.zone";
 };
