@@ -10,6 +10,6 @@ $TTL	604800
 			 604800 )	; Negative Cache TTL
 ;
 @	IN	NS	oadri.gal.
-@	IN	A	10.0.0.254
+@	IN	A	10.1.0.254
 www	IN	CNAME	oadri.gal.
 @	IN	MX	oadri.gal 
