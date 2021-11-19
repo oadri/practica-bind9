@@ -1,4 +1,4 @@
-## practica-bind9 - configuración de zona - comprobación
+## configuración de zona - comprobación
 ```
 ;
 ; BIND data file for oadri.gal
